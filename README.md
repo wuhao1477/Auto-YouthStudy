@@ -31,4 +31,12 @@
 正确的链接应该为：https://tuan.12355.net/wechat/view/information/member_certification_generated.html?memberId=123456&showMemberAdditionNames=&showMemberRewardIds=&isShowAllFee=true
 【其中123456为你自己的id，每个人都不一样！】
 
-<img src="http://static.runoob.com/images/runoob-logo.png" width="50%">
+<img src="https://github.com/wuhao1477/-node-/blob/main/1.jpg" width="50%">
+
+<img src="https://github.com/wuhao1477/-node-/blob/main/2.jpg" width="50%">
+
+<img src="https://github.com/wuhao1477/-node-/blob/main/3.jpg" width="50%">
+
+<img src="https://github.com/wuhao1477/-node-/blob/main/4.jpg" width="50%">
+
+<img src="https://github.com/wuhao1477/-node-/blob/main/5.jpg" width="50%">
